@@ -1,0 +1,40 @@
+.upperFlex
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Fullcard
+{
+    border: 1px  red;
+    width: 40%;
+    padding: 1rem;
+    /* background-color:#ff8321; */
+    margin: auto;
+}
+
+.box
+{
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+}
+
+.lowerFlex
+{
+    display: flex;
+    justify-content: space-between;
+}
+.image img
+{
+    width: 50px;
+    height: 50px;
+}
+
+.header
+{
+    border: 1px ;
+    width: 40%;
+    /* font-size: x-large; */
+    /* font-weight: ; */
+}
